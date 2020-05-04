@@ -31,7 +31,7 @@
     <zookpeer.version>0.10</zookpeer.version>
     <netty.version>4.1.6.Final</netty.version>
     <curator-framework.version>4.0.1</curator-framework.version>
-    <jackson.version>2.7.3</jackson.version>
+    <jackson.version>2.7.8</jackson.version>
     <commons-fileupload.version>1.3.1</commons-fileupload.version>
     <io.netty.version>3.7.0.Final</io.netty.version>
     <spring-security-config.version>3.1.4.RELEASE</spring-security-config.version>
